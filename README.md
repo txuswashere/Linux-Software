@@ -252,8 +252,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### All-in-One Client
 
-- [![Open-Source-Software][oss icon]](https://github.com/ferdium/ferdium-app) [Ferdium](https://ferdium.org/) - Fork of Ferdi/Franz. Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.
-- [![Open-Source-Software][oss icon]](https://github.com/meetfranz/franz) [Franz](https://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
+- (https://github.com/ferdium/ferdium-app) [Ferdium](https://ferdium.org/) - Fork of Ferdi/Franz. Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.
+- (https://github.com/meetfranz/franz) [Franz](https://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
 - (https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - A universal chat client.
 - [Rambox](https://rambox.pro/) - Free and Cross Platform messaging and emailing app that combines common web applications into one.
 - (https://github.com/sonnyp/Tangram) [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Tangram is a new kind of browser. It is designed to organize and run your Web applications.
@@ -277,7 +277,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Official Client
 
-- [![Open-Source-Software][oss icon]](https://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](https://www.beebeep.net/) - BeeBEEP is an open source, peer to peer, lan messenger. You can talk and share files with anyone inside your local area network. You don't need a server, just download, unzip and start it. Simple, fast and secure.
+- (https://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](https://www.beebeep.net/) - BeeBEEP is an open source, peer to peer, lan messenger. You can talk and share files with anyone inside your local area network. You don't need a server, just download, unzip and start it. Simple, fast and secure.
 - (https://github.com/dino/dino) [Dino](https://dino.im) - Clean and modern Jabber/XMPP chat client.
 - [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone.
 - (https://github.com/vector-im/element-web) [Element](https://element.io/) - A glossy Matrix collaboration client for the web.
