@@ -156,7 +156,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - (https://github.com/Ardour/ardour) [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux.
 - (https://github.com/audacity/audacity) [Audacity](https://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds.
 - (https://bazaar.launchpad.net/~audio-recorder/audio-recorder/trunk/files) [Audio Recorder](https://launchpad.net/~audio-recorder) - Simple audio recorder available in an Ubuntu PPA.
-- ![Non Free][money icon] [Bitwig](https://www.bitwig.com/en/download.html) - DAW for music production.
+- [Bitwig](https://www.bitwig.com/en/download.html) - DAW for music production.
 - (https://github.com/wwmm/easyeffects) [EasyEffects](https://github.com/wwmm/easyeffects) - EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.
 - (https://github.com/mtytel/helm) [Helm](https://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
 - (https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/) - Advanced drum machine for GNU/Linux.
@@ -164,7 +164,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - (https://github.com/LMMS/lmms) [LMMS](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.
 - (https://github.com/mixxxdj/mixxx) [Mixxx](https://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes; veritable alternative to Traktor.
 - (https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
-- ![Non Free][money icon] [Reaper](https://www.reaper.fm/) - Audio Production without Limits.
+- [Reaper](https://www.reaper.fm/) - Audio Production without Limits.
 - (https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - An open-source virtual modular synthesizer.
 - (https://github.com/Audio4Linux/Viper4Linux-GUI) [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux-GUI) - An audio effect processor based on Viper4Android.
 
@@ -381,7 +381,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### C\+\+
 
-- ![Non Free][money icon] [CLion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C/C++.
+- [CLion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C/C++.
 - (https://sourceforge.net/p/codeblocks/code/HEAD/tree/) [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
 - (https://wiki.codelite.org/pmwiki.php/Main/Repositories) [CodeLite](https://codelite.org/) - A Free, open source, cross platform C/C++, PHP and Node.js IDE.
 - (https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/product/development-tools) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.
@@ -399,7 +399,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - (https://github.com/mysql/mysql-server) [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL is the world's leading open source database thanks to its proven performance, reliability and ease-of-use. It is used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more.
 - (https://github.com/mysql/mysql-workbench) [MySQL Workbench](https://www.mysql.com/products/workbench/) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.
 - (https://github.com/OmniDB/OmniDB) [OmniDB](https://github.com/OmniDB/OmniDB) - Browser-based tool that visually create, manage, and view databases.
-- ![Non Free][money icon] [OracleDB](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Object-relational database management system produced and marketed by Oracle Corporation, one of the most trusted and widely-used relational database engines.
+- [OracleDB](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Object-relational database management system produced and marketed by Oracle Corporation, one of the most trusted and widely-used relational database engines.
 - (https://github.com/percona/percona-server-mongodb) [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB provides all features and benefits of MongoDB Community Server.
 - (https://github.com/percona/pmm-server) [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) is a free and open-source platform for managing and monitoring MySQL, MariaDB and MongoDB performance. You can run PMM in your own environment for maximum security and reliability. It provides thorough time-based analysis for MySQL, MariaDB and MongoDB servers to ensure that your data works as efficiently as possible.
 - (https://github.com/percona/percona-server) [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - Percona Server for MySQL is a free, fully compatible, enhanced, open source drop-in replacement for MySQL that provides superior performance, scalability and instrumentation.
@@ -446,7 +446,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Golang
 
-- ![Non Free][money icon] [GoLand](https://www.jetbrains.com/go/) - Commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
+- [GoLand](https://www.jetbrains.com/go/) - Commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
 - (https://github.com/visualfc/liteide) [LiteIDE X](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 
 #### Java
@@ -454,11 +454,11 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - (https://www.bluej.org/versions.html) [BlueJ](https://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide.
 - (https://git.eclipse.org/c/) [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but can also download packages to support C/C++ IDE and PHP IDE.
 - (https://github.com/JetBrains/intellij-community) [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) - Open source IDE by Jetbrains for JVM and Android development.
-- ![Non Free][money icon] [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) - Commercial IDE by Jetbrains for web and enterprise JAVA development.
+- [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) - Commercial IDE by Jetbrains for web and enterprise JAVA development.
 
 #### Javascript
 
-- ![Non Free][money icon] [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
+- [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
 
 #### Microcomputer and Embedded Devices
 
@@ -481,10 +481,10 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 #### Python
 
 - (https://github.com/JetBrains/intellij-community/tree/master/python) [PyCharm Community](https://www.jetbrains.com/pycharm/) - Open source IDE by Jetbrains for pure Python development.
-- ![Non Free][money icon] [PyCharm Professional](https://www.jetbrains.com/pycharm/) - Commercial IDE by Jetbrains for scientific and web Python development.
+- [PyCharm Professional](https://www.jetbrains.com/pycharm/) - Commercial IDE by Jetbrains for scientific and web Python development.
 
 #### Ruby
-- ![Non Free][money icon] [RubyMine](https://www.jetbrains.com/ruby/) - Professional Ruby and Rails IDE.
+- [RubyMine](https://www.jetbrains.com/ruby/) - Professional Ruby and Rails IDE.
 
 #### Shell
 
@@ -528,7 +528,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Postman](https://www.getpostman.com) - Postman, allows a user to develop and test APIs quickly.
 - (https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use.
 - (https://github.com/CoatiSoftware/Sourcetrail) [Sourcetrail](https://www.sourcetrail.com/) - Sourcetrail is a free and open-source cross-platform source explorer that helps you get productive on unfamiliar source code.
-- ![Non Free][money icon] [StarUML](http://staruml.io/) - A sophisticated software modeler.
+- [StarUML](http://staruml.io/) - A sophisticated software modeler.
 - (https://github.com/uncrustify/uncrustify) [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C/C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below.
 - (https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI offers a live preview for setting the parameters of nearly any indenter.
 - (https://sourceware.org/git/?p=valgrind.git) [Valgrind](http://valgrind.org/) - Valgrind is a GPL'd system for debugging and profiling Linux programs.
@@ -560,7 +560,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - (https://github.com/pdfarranger/pdfarranger) [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF Arranger is a small application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - (https://github.com/torakiki/pdfsam) [PDFsam](http://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files.
 - (https://github.com/junrrein/pdfslicer) [PDF Slicer](https://junrrein.github.io/pdfslicer/) - PDF Slicer is a simple application to extract, merge, rotate and reorder pages of PDF documents.
-- ![Non Free][money icon] [PDF Studio](https://www.qoppa.com/pdfstudio/) - An easy to use, full-featured PDF editing software that is a reliable alternative to Adobe Acrobat and provides all PDF functions needed at a fraction of the cost. PDF Studio maintains full compatibility with the PDF Standard.
+- [PDF Studio](https://www.qoppa.com/pdfstudio/) - An easy to use, full-featured PDF editing software that is a reliable alternative to Adobe Acrobat and provides all PDF functions needed at a fraction of the cost. PDF Studio maintains full compatibility with the PDF Standard.
 - (https://launchpad.net/qpdfview) [qpdfview](https://launchpad.net/qpdfview) - qpdfview is a tabbed document viewer.
 - (https://github.com/Sigil-Ebook/Sigil) [Sigil](https://sigil-ebook.com/) - Sigil is a multi-platform EPUB ebook editor.
 - (https://git.pwmt.org/pwmt/zathura.git) [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer.
